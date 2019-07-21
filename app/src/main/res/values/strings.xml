@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="loading_title">Loading...</string>
+    <string name="no_inet_message">No Internet connection.</string>
+    <string name="ok">Ok</string>
+    <string name="save_btn_title">Save</string>
+    <string name="xml_preview_title">XML</string>
+    <string name="json_preview_title">JSON</string>
+    <string name="save_success">Saved successfully.</string>
+    <string name="save_failure">Failed to save.</string>
+    <string name="saved_news_file_name">save_news</string>
+</resources>
